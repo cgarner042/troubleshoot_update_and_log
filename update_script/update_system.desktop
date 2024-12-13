@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Update System
+Comment=Run system update script
+Exec=bash -c "/home/garner/code/distro_hopper/update_script/update_system.sh"
+Icon=utilities-terminal
+Terminal=true
+Type=Application
+
